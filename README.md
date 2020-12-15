@@ -17,5 +17,5 @@ The following resources require permission entitlements:
 The following is a collection of useful references:
 
 * **LVRP** - Portal hosting administrative services in regards to the LVR
-* **[LVR GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Technical documenation of the LVR GitHub
+* **[LVR GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Additional details about the LVR GitHub
 * **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable VMs for penetration testing practice
