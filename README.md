@@ -3,7 +3,7 @@ The LockettVesp Range (LVR) is a free-for-use cyber operations simulator for tra
 
 * **Training Sorties** - Interactive exercises ranging a wide spectrum of cyber security domains
 * **TTP Development** - Dedicated range time for developing tactics, techniques and procedures
-* **Blue v Red** - Live CTF-like events in which defensive and offensive security teams strive to control critical assets
+* **Blue v Red** - Live CTF events in which defensive and offensive security teams strive to control critical assets
 * **Offline Deployment** - Download and install the LVR on your own infrastructure for offline access (requires license updates)
 
 # Access
@@ -17,5 +17,5 @@ The following resources require permission entitlements:
 The following is a collection of useful references:
 
 * **LVRP** - Portal hosting administrative services in regards to the LVR
-* **GitHub Wiki** - Technical documenation of the LVR GitHub
+* **[GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Technical documenation of the LVR GitHub
 * **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable VMs for penetration testing practice
