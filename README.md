@@ -11,7 +11,7 @@ The following resources require permission entitlements:
 
 * **[GitHub](https://github.com/chemch/LockettVesp)** - Code and configuration repository
 * **[DropBox](https://www.dropbox.com/home/LockettVesp)** - Virtual machine and container storage
-* **LVR Portal (LVRP)** - Administrative resources as well as the Training Sortie Guides (TSG)
+* **LVR Portal (LVRP)** - Administrative resources as well as the **Training Sortie Guides (TSG)**
 
 # References
 The following is a collection of useful references:
