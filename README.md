@@ -6,15 +6,11 @@ The LockettVesp Range (LVR) is a free-for-use cyber operations simulator for tra
 * **Blue vs Red** - Live CTF events in which defensive and offensive security teams strive to control critical assets
 * **Offline Deployment** - Download and install the LVR on your own infrastructure for offline access
 
-# Assets
-LVR assets are stored in the following locations.
-
-* **[LVR GitHub](https://github.com/chemch/LockettVesp)** - Code and configuration repository
-* **[LVR DropBox](https://www.dropbox.com/home/LockettVesp)** - Virtual machine and container storage
 
 # References
 The following is a collection of useful references.
 
+* **[LVR DropBox](https://www.dropbox.com/home/LockettVesp)** - Virtual machine and container storage
 * **[LVR Portal](https://dev-lockettvesp.pantheonsite.io/)** - Portal hosting administrative services in regards to the LVR
 * **[LVR GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Additional details about the LVR GitHub
 * **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable VMs for penetration testing practice
