@@ -11,8 +11,8 @@ The following are various event types that members can sign up for (at no cost):
 
 
 # References
-The following is a collection of useful references.
+The following are auxiliary references:
 
-* **[LVR Portal](https://dev-lockettvesp.pantheonsite.io/)** - Portal hosting administrative services in regards to the LVR
-* **[LVR GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Additional details about the LVR GitHub
-* **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable VMs for penetration testing practice
+* **[Lockett Vesp Portal](https://dev-lockettvesp.pantheonsite.io/)** - Resources for scheduling time on the range as well as getting answers to challenges
+* **[GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Additional technical information about Lockett Vesp
+* **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable virtual machines for practicing offensive security skills
