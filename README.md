@@ -1,7 +1,7 @@
 # Summary
 The LockettVesp Range (LVR) is a free-for-use cyber operations simulator for training and development. The range consists of over 75 virtualized devices configured to emulate an enterprise network. There are a few methods by which you can use the LVR.
 
-* **Training Sorties** - Interactive exercises ranging a wide spectrum of cyber security domains
+* **Training Sorties** - Interactive challenges ranging a wide spectrum of cyber security domains
 * **TTP Development** - Dedicated range time for developing tactics, techniques and procedures
 * **Blue vs Red** - Live CTF events in which defensive and offensive security teams strive to control critical assets
 * **Offline Deployment** - Download and install the LVR on your own infrastructure for offline access
