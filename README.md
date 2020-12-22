@@ -5,9 +5,9 @@ Lockett Vesp is a non-profit cyber security emulator built for educational purpo
 
 The following are various event types that members can sign up for (at no cost):
 
-* **Gauntlent** - Interactive cyber challenges ranging a variety of security related topics
-* **War** - Timed competitions involving offensive and defensive security teams working towards stated objectives
-* **Open World** - Free reign to test tactics and techniques in the safe yet realistic range
+* **Challenges** - Interactive cyber challenges ranging a variety of security related topics
+* **Competitions** - Timed competitions involving offensive and defensive security teams working towards stated objectives
+* **Open Access** - Free reign to test tactics and techniques in the safe yet realistic range
 
 
 # References
