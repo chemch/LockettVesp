@@ -1,10 +1,11 @@
 # Summary
-The LockettVesp Range (LVR) is a free-for-use cyber operations simulator for training and development. The range consists of over 75 virtualized devices configured to emulate an enterprise network. There are a few methods by which you can use the LVR.
+Lockett Vesp is a non-profit cyber security emulator built for educational purposes. It is a training platform that consists of a vast collection of virtual machines configured to operate like an enterprise network. Because it is a sandbox environment it can be fully reverted, altered or destroyed with no real harm to any production infrastructure. Students can leverage Lockett Vesp to learn basic cyber security principles as well as get practice on industry standard and open source tools.
 
-* **Training Sorties** - Interactive challenges ranging a wide spectrum of cyber security domains
-* **TTP Development** - Dedicated range time for developing tactics, techniques and procedures
-* **Blue vs Red** - Live CTF events in which defensive and offensive security teams strive to control critical assets
-* **Offline Deployment** - Download and install the LVR on your own infrastructure for offline access
+
+The following are various offerings that members can sign up for (at no cost):
+* **The Gauntlent** - Interactive cyber challenges ranging a variety of security related topics
+* **War** - Timed competitions involving offensive and defensive security teams working towards stated objectives
+* **Open World** - Free reign to test tactics and techniques in a safe yet realistic environment
 
 
 # References
