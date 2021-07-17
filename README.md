@@ -13,6 +13,6 @@ The following are various event types that members can sign up for (at no cost):
 # References
 The following are auxiliary references:
 
-* **[Lockett Vesp Portal](https://dev-lockettvesp.pantheonsite.io/)** - Resources for scheduling time on the range as well as getting answers to challenges
+* **[Lockett Vesp Portal](https://lockettvesp.net)** - Resources for scheduling time on the range as well as getting answers to challenges
 * **[GitHub Wiki](https://github.com/chemch/LockettVesp/wiki)** - Additional technical information about Lockett Vesp
 * **[VulnHub](https://www.vulnhub.com/)** - Database of vulnerable virtual machines for practicing offensive security skills
